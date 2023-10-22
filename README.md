@@ -1,6 +1,6 @@
 # ActiveLook® HELLO WORLD
 
-Description : Try different features of your Augmented Reality ActiveLook® smart glasses
+**Description** : Try different features of your Augmented Reality ActiveLook® smart glasses
 
 A mode exhaustive demo with all features of AciveLook can found here :
 			  https://github.com/ActiveLook/demo-app/tree/main/android
