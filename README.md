@@ -57,13 +57,13 @@ These files is generated under Windows with the python scripts from : https://gi
 but modified as described in the application : ActiveLook FONTSIZES
 
 Then, you can try different features of ActiveLook :
-* DEMO : a clock is displayed with the glasses and phone/watch batteries level at the top
-* TEXT : you can hit several times on that key and will see different fonts displayed in the glasses
-* GESTURE : put you eye in front of your left eye and it wil increment a counter, if you do it twice in less than 5 sec, it is a 'double clic'
-* GPS : some GPS data are displayed if you can get GPS signals
-* IMAGE1 : you can hit several times on that key and different images will be displayed in the glasses after some seconds, the time to upload them from the phone/watch to the glasses
-* IMAGE2 : a different way to display the images using configurations
-* SCREEN : a screenshot ofyour phone/watch is displayed in your glasses. But I don't know how to keep that function running while using other applications. I you know and can help me : Your advices are welcome !
-* GRAPHIC : some examples of lines, rectangles, circles written in the glasses
-* BITMAPS : some examples of the bitmaps available in the glasses are displayed
-* ANIMATION : some animated pictures are displayed in the glasses, they are generated from animated GIFs or a serie of images with the Config-Generator mentionned above. NOTE : in the build.gradle you need to use this preliminary version of the SDK : implementation 'com.github.ActiveLook:android-sdk:feat~anim-SNAPSHOT'
+* **DEMO** : a clock is displayed with the glasses and phone/watch batteries level at the top
+* **TEXT** : you can hit several times on that key and will see different fonts displayed in the glasses
+* **GESTURE** : put you eye in front of your left eye and it will increment a counter; if you do it twice in less than 5 sec, it is a 'double clic'
+* **GPS** : some GPS data are displayed if you can get GPS signals
+* **IMAGE1** : you can hit several times on that key and different images will be displayed in the glasses after some seconds, the time to upload them from the phone/watch to the glasses
+* **IMAGE2** : a different way to display the images using configurations
+* **SCREEN** : a screenshot of your phone/watch is displayed in your glasses. But I don't know how to keep that function running while using other applications. I you know and can help me : Your advices are welcome !
+* **GRAPHIC** : some examples of lines, rectangles, circles written in the glasses
+* **BITMAPS** : some examples of the bitmaps available in the glasses are displayed
+* **ANIMATION** : some animated pictures are displayed in the glasses, they are generated from animated GIFs or a series of images with the Config-Generator mentioned above. NOTE : in the build.gradle you need to use this preliminary version of the SDK : implementation 'com.github.ActiveLook:android-sdk:feat~anim-SNAPSHOT'
